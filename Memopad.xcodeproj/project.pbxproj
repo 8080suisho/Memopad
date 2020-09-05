@@ -13,6 +13,7 @@
 		2CDBD4FE24FFDC4C001F623F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CDBD4FC24FFDC4C001F623F /* Main.storyboard */; };
 		2CDBD50024FFDC4E001F623F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CDBD4FF24FFDC4E001F623F /* Assets.xcassets */; };
 		2CDBD50324FFDC4E001F623F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CDBD50124FFDC4E001F623F /* LaunchScreen.storyboard */; };
+		2CDBD50B24FFDC96001F623F /* MemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CDBD50A24FFDC96001F623F /* MemoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2CDBD4FF24FFDC4E001F623F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2CDBD50224FFDC4E001F623F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2CDBD50424FFDC4E001F623F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2CDBD50A24FFDC96001F623F /* MemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2CDBD4F624FFDC4C001F623F /* AppDelegate.swift */,
 				2CDBD4F824FFDC4C001F623F /* SceneDelegate.swift */,
 				2CDBD4FA24FFDC4C001F623F /* ViewController.swift */,
+				2CDBD50A24FFDC96001F623F /* MemoViewController.swift */,
 				2CDBD4FC24FFDC4C001F623F /* Main.storyboard */,
 				2CDBD4FF24FFDC4E001F623F /* Assets.xcassets */,
 				2CDBD50124FFDC4E001F623F /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CDBD50B24FFDC96001F623F /* MemoViewController.swift in Sources */,
 				2CDBD4FB24FFDC4C001F623F /* ViewController.swift in Sources */,
 				2CDBD4F724FFDC4C001F623F /* AppDelegate.swift in Sources */,
 				2CDBD4F924FFDC4C001F623F /* SceneDelegate.swift in Sources */,
